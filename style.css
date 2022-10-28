@@ -1,0 +1,38 @@
+#paragraph1 {
+    color: rgb(234, 13, 57);
+    background-color: rgb(233, 244, 244);
+}
+
+#paragraph2 {
+    color: darkslategrey;
+}
+
+h1 {
+    color: rgb(20, 34, 5);
+}
+
+h3 {
+    color: rgb(138, 50, 17);
+}
+
+#header-four {
+    color: blueviolet;
+}
+
+.headerRed {
+    color: rgb(88, 12, 125);
+}
+
+.headerBlue {
+    color: blue;
+}
+
+body {
+    background-image: url(https://pics.filmaffinity.com/Arcane_League_of_Legends_Serie_de_TV-624235408-large.jpg);
+    background-size: cover;
+}
+
+.copyrigth {
+    color: beige;
+    background-color: black;
+}
